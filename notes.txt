@@ -1,0 +1,26 @@
+A project to facilitate learning of proof methods for programs.
+
+Questions to be answered...
+
+- What is a theorem prover?
+- What does an automated theorem prover do?
+- What is the precise relationship between logic and programs?
+- What are the current limitations of automated theorem proving?
+- What is the relationship to program verification?
+
+
+References
+- ML for Working Programmers
+  - Chapter 6 - Reasoning about Functional Programs
+  - Chapter 10 - A Tactical Theorem Prover
+
+- The Little Prover
+
+- The Formal Semantics of Programming Languages 
+
+- Wadler's paper on Logic and programs (need to find)
+
+- ACL2 documentation/user guides
+
+? Haskell Road to Logic
+
